@@ -1,0 +1,11 @@
+
+
+langchain 
+python-dotenv 
+langchain_community 
+langchain-text-splitters 
+langchain_community
+validators
+unstructured
+youtube_transcript_api
+pytube
